@@ -1,0 +1,66 @@
+a = {1pple, oreng}
+
+
+A = (1,2,3)
+B = (4,5,6)
+C = A + B
+print(C[1,1])
+
+#impurt io をしてはいけない理由
+
+words = "Python"
+for i = word
+    print(word)
+
+x = yes
+   in   is
+
+dive_into_code = [(1, 'won'), (2, 'Nakao'), (3, 'Miyaoka'), (4, 'Kimura')]
+dic = dive_into_code
+dic.sort(key=lambda dic: dic[1]) #1は第二要素の名前を昇順にする。0の場合、第一要素の数字に対し昇順にする。
+
+print(dic)
+
+#辞書について
+
+
+list[:]と同様なのはどれ
+
+a.copy
+
+x.add
+y.add
+x.add
+print(x)
+
+class Sample:
+    def __init__(self):
+        self.c_list = [] #それぞれのサンプルに新たに空リストを生成
+    def add_c_list(self,data):
+        self.c_list.append(data) 
+
+print("出力結果:", end=" ")
+sample1 = Sample()
+sample1.add_c_list("データ1")
+
+sample2 = Sample()
+sample2.add_c_list("データ2")
+
+for item_data in sample1.c_list:
+    print(item_data, end=" ")
+
+#ログを取得するためのモジュールはどれ？
+# logging
+
+#from xxx import date
+
+# A:datetime
+
+today = date.today()  # 今日の日付を取得
+
+
+def fib(n):
+    print()
+print()
+
+__name_
